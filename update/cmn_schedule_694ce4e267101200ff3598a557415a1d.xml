@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="cmn_schedule">
+    <cmn_schedule action="INSERT_OR_UPDATE">
+        <description>Test Description bQjrXlIhXT81C4y7</description>
+        <document/>
+        <document_key/>
+        <name>Example Record bQjrXlIhXT81C4y7</name>
+        <parent/>
+        <read_only>false</read_only>
+        <sys_class_name>cmn_schedule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-15 21:34:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>694ce4e267101200ff3598a557415a1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Example Record bQjrXlIhXT81C4y7</sys_name>
+        <sys_package display_value="largeApp" source="sn_largeapp">01daec6267101200ff3598a557415a75</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="largeApp">01daec6267101200ff3598a557415a75</sys_scope>
+        <sys_update_name>cmn_schedule_694ce4e267101200ff3598a557415a1d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-15 21:34:19</sys_updated_on>
+        <time_zone/>
+        <type/>
+    </cmn_schedule>
+</record_update>
